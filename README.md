@@ -1,5 +1,5 @@
 # Eddy3D-CaseStudies
-More information about case studies for Eddy3D can be found [here](https://www.eddy3d.com/casestudies.html).
+More information about case studies for Eddy3D can be found [here](https://www.eddy3d.com/case-studies/).
 
 
 
